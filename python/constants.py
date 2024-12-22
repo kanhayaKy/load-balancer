@@ -1,0 +1,2 @@
+class NoValidServerURLError(Exception):
+    pass
