@@ -11,6 +11,7 @@
 
 3. You can start multiple instances of the server by running it on different ports
 4. Make a request to the loadbalancer
+   
 ![image](https://github.com/user-attachments/assets/72f331df-4418-4826-8522-dd2bf2ac1821)
 
 
